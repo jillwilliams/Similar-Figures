@@ -1,0 +1,92 @@
+body {
+    background-image: linear-gradient(purple, violet);
+    color: white;
+    font-family: "Shadows Into Light", cursive;
+    letter-spacing: 4px;
+    margin: 15px 35px 45px 35px;
+
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+
+}
+h2 {
+    font-size: 1.5rem;
+}
+/* IMAGE: FIRST PAIR OF SIMILAR TRIANGLES */
+#img1 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+}
+/* IMAGE: SECOND PAIR OF SIMILAR TRIANGLES */
+#img2 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+}
+#img3 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+}
+/* TEXT: RULE: NOT DRAWN TO SCALE */
+#rule {
+    color: black;
+}
+#img4 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+}
+/* FIRST SUBMIT BUTTON */
+#myBtn {
+    width: 10%;
+    height: 60px;
+    font-size: 1.5rem;
+    margin-left: 45%;
+    margin-right: 45%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+    font-family: "Rajdhani", cursive;
+}
+#demo, #demo1 {
+    width: 15%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    font-size: 1.5rem;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    text-align: center;
+    border: 1px purple solid;
+    outline: 1px black solid;
+    font-family: "Rajdhani", cursive;
+    padding: 5px;
+}
+#img5 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px purple solid;
+    outline: 1px black solid;
+}
+footer {
+    font-size: 1 rem;
+    text-align: center;
+    margin-top: 25px;
+}
